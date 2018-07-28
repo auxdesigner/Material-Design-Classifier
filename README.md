@@ -10,13 +10,13 @@ Use Tensorflow to retrain an image classifier to identify Material Design
 
 ### Sample results:
 #### Sample 1
-![alt tag](https://github.com/auxdesigner/Material-Design-Classifier/raw/master/test/ios.jpg)
+![alt tag](https://github.com/auxdesigner/Material-Design-Classifier/raw/master/test/result1.png)
 
 **ios 0.9272837**<br/>
 md 0.07271626<br/><br/>
 
 #### Sample 2
-![alt tag](https://github.com/auxdesigner/Material-Design-Classifier/raw/master/test/md.jpg)
+![alt tag](https://github.com/auxdesigner/Material-Design-Classifier/raw/master/test/result2.png)
 
 **md 0.9282692**<br/>
 ios 0.07173077
